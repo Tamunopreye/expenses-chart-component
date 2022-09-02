@@ -14,12 +14,11 @@ Users should be able to:
 
 ### Screenshot
 
-![./screenshot.jpg](/home/tamunopreye/expenses-chart-component/src/images/screenshot.png)
+![./screenshot.jpg](./src/images/screenshot.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [https://tamunopreye.github.io/expenses-chart-component](https://your-live-site-url.com)
+-   Live Site URL: [expenses chart component](https://tamunopreye.github.io/expenses-chart-component)
 
 ## My process
 
