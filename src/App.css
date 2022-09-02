@@ -1,13 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+
 .container {
     background-color: var(--Cream);
-    height: 100vh;
+    width: 100%;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .card {
-    width: 500px;
+    max-width: 500px;
     /* border: 1px solid; */
     padding: 1rem;
 }
@@ -44,4 +47,9 @@ hr {
 .price {
     display: block;
     font-size: 1.7rem;
+    font-weight: 700;
+
+}
+.rate {
+    font-weight: 700;
 }
